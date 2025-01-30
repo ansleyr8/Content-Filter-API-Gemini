@@ -9,7 +9,7 @@ This repository contains a Flask-based **Content Filter API** designed to detect
 - **Flexible Integration**: Easily embeds into larger ecosystems, including social media apps and CMS platforms.  
 
 ## Key Highlights  
-- **AI-Powered Analysis**: Utilizes Google Gemini's generative AI models for robust and precise text analysis.  
+- **AI-Powered Analysis**: Utilizes Google Gemini's generative AI model gemini-1.5-flash for a robust and precise text analysis.  
 - **Flask Framework**: Lightweight and efficient backend development with Flask.  
 - **Cloud-Ready Design**: Built to scale, ensuring high availability and performance in cloud environments.  
 - **Security**: Focused on content safety and moderation for a clean user experience.  
