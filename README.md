@@ -6,7 +6,10 @@ This repository contains a Flask-based **Content Filter API** designed to detect
 - **NSFW Content Detection**: Accurately identifies and flags inappropriate text using AI-powered models.  
 - **Real-Time Moderation**: Provides instant feedback on submitted content.  
 - **Scalable Architecture**: Designed for seamless integration into centralized and decentralized systems.  
-- **Flexible Integration**: Easily embeds into larger ecosystems, including social media apps and CMS platforms.  
+- **Flexible Integration**: Easily embeds into larger ecosystems, including social media apps and CMS platforms.
+
+## Demo
+- ![Content-filter-api-test results](https://github.com/user-attachments/assets/1233faf9-ad1e-410a-9b47-933b49002309)
 
 ## Key Highlights  
 - **AI-Powered Analysis**: Utilizes Google Gemini's generative AI model gemini-1.5-flash for a robust and precise text analysis.  
